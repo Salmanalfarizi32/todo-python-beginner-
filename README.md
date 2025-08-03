@@ -22,8 +22,8 @@ Cocok untuk pemula yang baru belajar `input()`, `if/else`, `list`, dan `loop`.
 2. Buka terminal  
 3. Jalankan dengan:
 
-```bash
-python to_do_list.py
+bash
+`python to_do_list.py
 
 ---
 
