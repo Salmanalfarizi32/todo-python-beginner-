@@ -1,16 +1,16 @@
-# todo-python-beginner
+# Todo-python-beginner
 # To-Do List CLI (Python)
 
 Proyek Python sederhana untuk membuat daftar tugas (to-do list) lewat terminal. Cocok untuk pemula yang baru belajar input(), if/else, list, dan loop.
 
-## 🎯 Fitur
+## Fitur
 
-- Tambah tugas baru
-- Lihat semua tugas
-- Hapus tugas berdasarkan nomor
+- Menambahh tugas baru
+- Meihat semua tugas
+- Menghapus tugas berdasarkan nomor
 - Menu interaktif di terminal
 
-## ▶️ Cara Menjalankan
+## Cara Menjalankan
 
 1. Clone repo ini atau download file .py
 2. Buka terminal
