@@ -24,6 +24,7 @@ Cocok untuk pemula yang baru belajar `input()`, `if/else`, `list`, dan `loop`.
 
 ```bash
 python to_do_list.py
+```
 
 ---
 
