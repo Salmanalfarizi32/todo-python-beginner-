@@ -37,7 +37,9 @@ python to_do_list.py
 4. Keluar
 
 Pilih menu (1/2/3/4): 2
+
 Masukkan nama tugas: Belajar Python
+
 Tugas 'Belajar Python' berhasil ditambahkan!
 
 --- To-Do List ---
