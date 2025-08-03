@@ -5,8 +5,8 @@ Proyek Python sederhana untuk membuat daftar tugas (to-do list) lewat terminal. 
 
 ## Fitur
 
-- Menambahh tugas baru
-- Meihat semua tugas
+- Menambah tugas baru
+- Melihat semua tugas
 - Menghapus tugas berdasarkan nomor
 - Menu interaktif di terminal
 
