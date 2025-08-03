@@ -17,7 +17,7 @@ Proyek Python sederhana untuk membuat daftar tugas (to-do list) lewat terminal. 
 3. Jalankan dengan:
 
 ```bash
-python to_do_list.py
+python to_do_list.py```
 
 
 ## Contoh Output
