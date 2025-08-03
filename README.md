@@ -52,3 +52,9 @@ Pilih menu (1/2/3/4): 1
 
 Daftar tugas:
 1. Belajar Python
+
+---
+
+## Dibuat oleh
+
+[Salman Alfarizi](https://github.com/Salmanalfarizi32)
